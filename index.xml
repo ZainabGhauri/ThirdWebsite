@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>64 Bit Operating System From Scratch</title>
+    <link>https://example.org/</link>
+    <description>Recent content on 64 Bit Operating System From Scratch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 20:05:55 +0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Profile</title>
+      <link>https://example.org/2021/04/my-profile/</link>
+      <pubDate>Tue, 20 Apr 2021 20:05:55 +0500</pubDate>
+      
+      <guid>https://example.org/2021/04/my-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Description of Task 1 &amp; 2</title>
+      <link>https://example.org/2021/04/description-of-task-1-2/</link>
+      <pubDate>Tue, 20 Apr 2021 20:05:43 +0500</pubDate>
+      
+      <guid>https://example.org/2021/04/description-of-task-1-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
