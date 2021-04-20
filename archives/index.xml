@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on 64 Bit Operating System From Scratch</title>
-    <link>https://example.org/archives/</link>
+    <link>https://zainabghauri.github.io/ThirdWebsite/archives/</link>
     <description>Recent content in Archives on 64 Bit Operating System From Scratch</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zainabghauri.github.io/ThirdWebsite/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
